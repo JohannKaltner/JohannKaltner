@@ -22,6 +22,8 @@ Welcome to my repository, I'm Johann Kaltner, I currently work as a Front-End De
 Me envie um e-mail, se preferir me liga! <strong>21 9 8254-3102</strong></p>
 
 <p align="left">
+ <img src="https://img.shields.io/badge/Javascript-Developer%20Senior-yellow"/>
+
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=johannkaltnerdev@gmail.com" /></a>
 
