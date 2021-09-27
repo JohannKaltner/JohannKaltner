@@ -34,6 +34,7 @@ Me envie um e-mail, se preferir me liga! <strong>21 9 8254-3102</strong></p>
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=982543102"/></a>
  
 </p>  
+![Johann Status](https://github-readme-stats.vercel.app/api?username=johannkaltner&show_icons=true&count_private=true&theme=dracula)
 
 
 
