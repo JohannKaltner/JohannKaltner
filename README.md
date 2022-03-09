@@ -11,7 +11,7 @@ Welcome to my repository, I'm Johann Kaltner, I currently work as a Front-End De
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Desenvolvedor Front-End Senior - [Javascript (Common, ES5+, React, React Native && For Web, Ionic, Angular5+, NodeJs and Php.</strong>
+  🦄 Linguagens: <strong>[Javascript (Common, ES5+, React, React Native && For Web, Ionic, Angular5+, NodeJs and PHP]</strong>
 </p>
 
 <p align="left">
