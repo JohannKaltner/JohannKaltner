@@ -3,11 +3,11 @@
 <p align="left"> 
 
 ## Bem-Vindo
-Bem-Vindo ao meu repositório, Sou Johann Kaltner, Atualmente trabalho como Desenvolvedor Front-End Sr. na <b>Vodafone 🔴</b>, não utilizo muito o github já que a maioria dos meus projetos são em repositórios privados do GITLAB.
+Bem-Vindo ao meu repositório, Sou Johann Kaltner, Atualmente trabalho como Desenvolvedor Front-End Lead. na <b>Vodafone 🔴</b>, não utilizo muito o github já que a maioria dos meus projetos são em repositórios privados do GITLAB.
  
 
 ## Welcome
-Welcome to my repository, I'm Johann Kaltner, I currently work as a Front-End Developer Sr. at <b>Vodafone 🔴</b> , I don't use github much since most of my projects are in private GITLAB repositories.
+Welcome to my repository, I'm Johann Kaltner, I currently work as a Lead Front-End Developer at <b>Vodafone 🔴</b> , I don't use github much since most of my projects are in private GITLAB repositories.
 </p>
 
 <p align="left">
